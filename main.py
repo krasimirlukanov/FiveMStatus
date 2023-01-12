@@ -122,6 +122,3 @@ async def button(ctx):
 
 
 bot.run('YOUR TOKEN HERE')
-=======
-bot.run('YourTokenHere')
->>>>>>> aec8d9e064e992cac9db8e09fe7f107c011c2a62
