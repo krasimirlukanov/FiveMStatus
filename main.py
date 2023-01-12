@@ -40,4 +40,4 @@ async def get_server_info(embed):
     embed.set_footer(text="here you can put some text if you like")
     await msg.edit(embed=embed)
 
-bot.run('MTA2MjgzMDUyMDk5MzU5NTQ0Mg.GhK6bU.II6XJ6OJowotsQW3heQoT2RE2Y2iyo4nmrNg-k')
+bot.run('YourTokenHere')
