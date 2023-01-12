@@ -87,6 +87,7 @@ async def get_server_info(embed):
     embed.add_field(name="🌏 - IP Address:", value="```5M SERVER IP ADDRESS HERE```")
     await msg.edit(embed=embed)
 
+<<<<<<< HEAD
 
 @bot.event
 async def on_member_join(member: discord.Member):
@@ -121,3 +122,6 @@ async def button(ctx):
 
 
 bot.run('YOUR TOKEN HERE')
+=======
+bot.run('YourTokenHere')
+>>>>>>> aec8d9e064e992cac9db8e09fe7f107c011c2a62
