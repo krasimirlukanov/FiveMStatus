@@ -125,6 +125,7 @@ async def button(ctx):
     await ctx.send("You have a question? You're at the right place.", view=OpenTicket())
 
 
+<<<<<<< HEAD
 async def archive(channel, archive_channel):
     if channel and archive_channel:
         transcript = await chat_exporter.export(channel)
@@ -134,3 +135,6 @@ async def archive(channel, archive_channel):
 
 
 bot.run('MTA2MjgzMDUyMDk5MzU5NTQ0Mg.G0tODx.zxq_5vrcDAP4-aWdYk-Yq7cUmt0HEJ-yUsjvXw')
+=======
+bot.run('YOUR TOKEN HERE')
+>>>>>>> 5081a7a02b7ac70390060527a059ac3b531a18ab
