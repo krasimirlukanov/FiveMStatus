@@ -134,7 +134,4 @@ async def archive(channel, archive_channel):
         await archive_channel.send(file=transcript_file)
 
 
-bot.run('MTA2MjgzMDUyMDk5MzU5NTQ0Mg.G0tODx.zxq_5vrcDAP4-aWdYk-Yq7cUmt0HEJ-yUsjvXw')
-=======
 bot.run('YOUR TOKEN HERE')
->>>>>>> 5081a7a02b7ac70390060527a059ac3b531a18ab
